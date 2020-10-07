@@ -23,18 +23,6 @@ body, html {
     min-height: 100%;
 }
 
-/* Second image (Portfolio) */
-.bgimg-2 {
-    background-image: url("img/4.jpg");
-    min-height: 400px;
-}
-
-/* Third image (Contact) */
-.bgimg-3 {
-    background-image: url("img/3.jpg");
-    min-height: 400px;
-}
-
 .w3-wide {letter-spacing: 10px;}
 .w3-hover-opacity {cursor: pointer;}
 #book:hover {background-color:#0000FF!important; color:#FFFFFF!important;}
